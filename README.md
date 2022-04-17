@@ -1,2 +1,2 @@
 # Port-Scanner
-Scan port forr entical hacking!
+Scan port for entical hacking!
